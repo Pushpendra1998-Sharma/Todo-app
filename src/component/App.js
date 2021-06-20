@@ -15,7 +15,6 @@ export default function App() {
 
     const updateInput = (value) => {
         setinput_field(value);
-        console.log(list_item)
     }
 
 
